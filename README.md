@@ -23,4 +23,4 @@
 > C**d≡m(modn)
 
 
-# (3) 代码结构件RAS.jpg
+# (3) 代码结构见RAS.jpg
